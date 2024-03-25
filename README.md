@@ -20,8 +20,10 @@ Thanks
 <h3 align="left">About :</h3>
 - 🌱 I’m currently learning **exploring and grinding as a Full Stack Developer**
 
-- 💬 Ask me about **Love coffee as much as I do? Let's talk about how awesome they're! We can code while we have coffee.**
-
+- 💬 Ask me about **Love ☕️ coffee as much as I do? Let's talk about how awesome they're! We can code while we have coffee.**
+  
+- ⚡Fun fact: I 💝 to travel a lot.
+  
 - 📫 How to reach me **rajeshkumarjena1720@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
