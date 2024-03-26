@@ -12,7 +12,7 @@ Over here you will find most of my repositories with project HTML, CSS, JavaScri
 Yeah, it’s fun doing and sharing with you,
 Please do explore it and use it if it comes to your needs.
 
-Happy codding:
+Happy codding:) <br>
 Thanks
 
 </p>
@@ -20,7 +20,7 @@ Thanks
 <h3 align="left">About :</h3>
 - 🌱 I’m currently learning **exploring and grinding as a Full Stack Developer**
 
-- 💬 Ask me about **Love ☕️ coffee as much as I do? Let's talk about how awesome they're! We can code while we have coffee.**
+- 💬 Ask me about : **Love ☕️ coffee as much as I do? Let's talk about how awesome they're! We can code while we have coffee.**
   
 - ⚡Fun fact: I 💝 to travel a lot.
   
