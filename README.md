@@ -5,7 +5,7 @@
 <p>
   Welcome to my profile,
 My name is Rajesh Kumar Jena. I have completed 	BSc in Computer Science and Application. And also completed Master’s Degree in 
-M.C.A from Berhampur University in 2023.
+M.C.A  in 2023.
 
 Over here you will find most of my repositories with project HTML, CSS, JavaScript.
 
